@@ -1,0 +1,27 @@
+B Z
+	A Y
+	A Y
+	B X
+	A Y
+	B X
+	A X
+	B X
+	B X
+	B X
+	C Y
+	C Y
+	A X
+	A Y
+	A Y
+	B X
+	A X
+	C Y
+	B Z
+	A X
+	B Z
+	C Y
+	C Z
+	A X
+	C Z
+	A Y
+	A X

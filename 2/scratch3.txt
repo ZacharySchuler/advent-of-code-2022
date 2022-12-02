@@ -1,0 +1,16 @@
+ X for Rock, 
+ Y for Paper, and 
+ Z for Scissors
+
+
+
+ NOT 11656
+
+
+A for Rock, 
+B for Paper, 
+C for Scissors
+
+ X means you need to lose, 
+ Y means you need to end the round in a draw,
+ Z means you need to win. Good luck!"
