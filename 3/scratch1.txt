@@ -1,0 +1,50 @@
+first half is first compartment , second half is second compartment
+
+find the items that appear in both rucksacks, find the priority
+
+each ruck sack is its own line
+
+
+
+
+
+To Do:
+
+create method to turn input into list of 
+each ruck sack will have 
+
+type Rucksack struct{
+	com1 com,
+	com1 com
+}
+
+type com struct{
+items []char
+}
+
+/////////
+Go from input to list of Rucksack
+go from rucksacks to list of RucksackDups
+go from RucksackDups to list of Rucksackdupvals
+sum
+
+
+
+7012 not working
+
+
+263 should have been s
+
+
+
+
+
+---------PArt 2:
+
+to do:
+
+take the output,
+
+for every row of 3:
+
+find the dup, app it to the total
